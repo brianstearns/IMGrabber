@@ -11,3 +11,11 @@ IMGrabber is a Chrome extension too view and download images on any website. Sca
 5. Refresh the page
 
 Note: After you loda the file into chrome, you no longer need to keep it on your computer
+
+## Example
+
+<p align="center">
+  <img src="images/screenshot1.png" width="200">
+  <img src="images/screenshot2.png" width="200">
+  <img src="images/screenshot3.png" width="200">
+</p>
