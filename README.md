@@ -5,9 +5,10 @@ IMGrabber is a Chrome extension too view and download images on any website. Sca
 ## Installation
 
 1. Clone the repo
-2. Go to the [Chrome Extensions](chrome://extensions/) Page
-3. Select Load Packaged file
-4. Select IMGrabber
-5. Refresh the page
+2. Unpackage the ZIP File
+3. Go to the [Chrome Extensions](chrome://extensions/) Page
+4. Select Load Unpackaged file
+5. Select IMGrabber
+6. Refresh the page
 
 Note: After you loda the file into chrome, you no longer need to keep it on your computer
